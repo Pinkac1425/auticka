@@ -1,0 +1,3 @@
+Navod na hru 
+
+Cieľ hry - získať čo najviac skóre bez nabúrania do prekážky (auta, barikády, kužela)
